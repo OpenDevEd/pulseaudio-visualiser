@@ -9,4 +9,6 @@ sudo apt-get install -y python3 python3-pip
 # Install required Python packages
 pip3 install -r requirements.txt
 
+chmod u+x audio_routing_visualiser.py
+
 echo "All required packages have been installed."
